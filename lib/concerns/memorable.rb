@@ -9,7 +9,7 @@ module Memorable
     end
 
   module InstanceMethods
-    def initialize 
+    def initialize
 
     end
   end
